@@ -26,7 +26,7 @@ A quick example how to use:
 
 	$scope = null;
 
-	$service = new OAuth\Service($client, $configuration, $Datastore, $scope);
+	$service = new OAuth\Service($client, $configuration, $datastore, $scope);
 
 	if (\Input::get('action')) {
 
