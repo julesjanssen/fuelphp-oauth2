@@ -20,7 +20,7 @@ A quick example how to use:
 	        'AUTHORIZE_ENDPOINT',
 	        'ACCESS_TOKEN_ENDPOINT');
 
-	// storage class for access token, just extend OAuth2_Datastore_Abstract for
+	// storage class for access token, just extend OAuth2\Datastore_Abstract for
 	// your own implementation
 	$datastore = new OAuth\Datastore_Session();
 
