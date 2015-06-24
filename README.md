@@ -1,3 +1,6 @@
+# DO NOT USE
+----
+
 # FuelPHP OAuth2 package
 
 > Ported from OAuth 2.0 PHP client. <https://github.com/vznet/oauth_2.0_client_php>
